@@ -1,1 +1,1 @@
-# SpringCloudConfig-test
+SpringCloudConfig-test
