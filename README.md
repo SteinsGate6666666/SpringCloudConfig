@@ -1,1 +1,1 @@
-SpringCloudConfig-master
+SpringCloudConfig-dev
